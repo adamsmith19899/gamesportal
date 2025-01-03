@@ -20,7 +20,7 @@ export const newGames: Game[] = [
     category: 'building',
     thumbnail: 'https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=800&auto=format&fit=crop&q=60',
     slug: 'word-master-2024',
-    url: 'https://html5.gamemonetize.co/hngnpl5sq2b7vms8mnw9sjxxboybxi19/',
+    url: '',
     aspectRatio: '750/750'
   },
   {
