@@ -10,7 +10,7 @@ export const newGames: Game[] = [
     thumbnail: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=800&auto=format&fit=crop&q=60',
     slug: 'wordle-stack-3d',
     url: 'https://html5.gamemonetize.co/hngnpl5sq2b7vms8mnw9sjxxboybxi19/',
-    aspectRatio: '750/1334'
+    aspectRatio: '750/900'
   },
   {
     id: 'word-master-2024',
