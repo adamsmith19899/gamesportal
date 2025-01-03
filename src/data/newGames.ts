@@ -2,7 +2,7 @@ import { Game } from '../types/game';
 
 export const newGames: Game[] = [
   {
-    id: 'wordle-stack-3d',
+    id: 'wordle-stack3d',
     title: 'Wordle Stack 3D',
     description: 'Challenge yourself with this exciting 3D version of the classic word game',
     difficulty: 'medium',
