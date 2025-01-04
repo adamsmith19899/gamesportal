@@ -79,9 +79,9 @@ export function Footer() {
           className="mt-12 pt-8 border-t border-gray-200 text-center text-sm text-gray-600"
         >
           <p className="flex items-center justify-center gap-2">
-            Made with <Heart className="w-4 h-4 text-red-400" /> by Word Puzzle Games
+            Made with <Heart className="w-4 h-4 text-red-400" /> by H5web.online
           </p>
-          <p className="mt-2">&copy; {new Date().getFullYear()} Word Puzzle Games. All rights reserved.</p>
+          <p className="mt-2">&copy; {new Date().getFullYear()} H5web.online. All rights reserved.</p>
         </motion.div>
       </div>
     </footer>
