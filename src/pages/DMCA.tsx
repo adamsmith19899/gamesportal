@@ -34,7 +34,7 @@ export function DMCA() {
           <div className="bg-gray-50 p-4 rounded-lg mb-6">
             <p className="text-gray-700">Copyright Agent</p>
             <p className="text-gray-700">H5 Web Games</p>
-            <p className="text-gray-700">Email: copyright@h5web.online</p>
+            <p className="text-gray-700">Email: info@h5web.online</p>
           </div>
           
           <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Counter-Notice</h2>
