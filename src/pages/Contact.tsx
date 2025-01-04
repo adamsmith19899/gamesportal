@@ -14,7 +14,7 @@ export function Contact() {
               <div className="space-y-4">
                 <div className="flex items-center text-gray-600">
                   <Mail className="w-5 h-5 mr-3" />
-                  <span>support@wordpuzzles.com</span>
+                  <span>info@h5web.online</span>
                 </div>
                 <div className="flex items-center text-gray-600">
                   <Phone className="w-5 h-5 mr-3" />
