@@ -12,19 +12,8 @@ export function Privacy() {
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
-           </p>
-          
-          <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Interpretation and Definitions</h2>
-          <p className="text-gray-600 mb-6">
-            We collect information that you provide directly to us, including your name,
-            email address, and game progress data. We also automatically collect certain
-            information about your device and how you interact with our games.
-          
-          </p>
-          
+           </p>              
           <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Information We Collect</h2>
-          <p className="text-gray-600 mb-6">
-             <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Interpretation</h2>
           <p className="text-gray-600 mb-6">
             The words of which the initial letter is capitalized have meanings defined under the following conditions.
             The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
