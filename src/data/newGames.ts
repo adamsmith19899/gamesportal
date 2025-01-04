@@ -35,13 +35,15 @@ export const newGames: Game[] = [
     aspectRatio: '800/850'
   },
   {
-    id: 'word-quest-3d',
-    title: 'Word Quest 3D',
-    description: 'Embark on a 3D adventure solving word puzzles',
-    difficulty: 'medium',
-    category: 'adventure',
-    thumbnail: 'https://images.unsplash.com/photo-1614680376593-902f74cf0d41?w=800&auto=format&fit=crop&q=60',
-    slug: 'word-quest-3d'
+    id: 'word-scramble-challenge',
+    title: 'Word Scramble Challenge',
+    description: 'A modern, engaging word puzzle game that tests your vocabulary and unscrambling skills across different difficulty levels.',
+    difficulty: 'medium, easy, hard',
+    category: 'Puzzle',
+    thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlM_k8cWyZIVaE6wKvYtr7ItDpHm8mippvpSV9lSen5czIiJTusbbyoNwJnEt8F3Mj0SfRDSoA-j3kYUTBHV5RtN6PPyJVPeRfDOU6P_pG8OEhpD8fVZRevpwsmAULbia1zMpGRm8C1LzMnFtHwosuEykWLurgZdh5oiEevkJYYB1A4wFaVQPISboDWw/s592/Captureddssssa.PNG',
+    slug: 'word-scramble-challenge',
+    url: 'word-scramble-challenge.vercel.app',
+    aspectRatio: '800/850'
   },
   {
     id: 'spell-master',
