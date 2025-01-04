@@ -7,7 +7,7 @@ export function DMCA() {
         <h1 className="text-4xl font-bold text-gray-900 mb-8">DMCA Policy</h1>
         <div className="prose prose-indigo">
           <p className="text-lg text-gray-600 mb-6">
-            Word Puzzle Games respects the intellectual property rights of others and expects its users to do the same.
+            H5 Web Games respects the intellectual property rights of others and expects its users to do the same.
             In accordance with the Digital Millennium Copyright Act of 1998, we will respond expeditiously to claims of copyright
             infringement that are reported to our designated copyright agent.
           </p>
@@ -33,8 +33,8 @@ export function DMCA() {
           </p>
           <div className="bg-gray-50 p-4 rounded-lg mb-6">
             <p className="text-gray-700">Copyright Agent</p>
-            <p className="text-gray-700">Word Puzzle Games</p>
-            <p className="text-gray-700">Email: copyright@wordpuzzles.com</p>
+            <p className="text-gray-700">H5 Web Games</p>
+            <p className="text-gray-700">Email: copyright@h5web.online</p>
           </div>
           
           <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Counter-Notice</h2>
