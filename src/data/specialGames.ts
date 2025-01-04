@@ -2,14 +2,14 @@ import { Game } from '../types/game';
 
 export const specialGames: Game[] = [
   {
-    id: 'wordle',
-    title: 'Wordle',
+    id: 'wordle-H5',
+    title: 'Wordle H5',
     description: 'Guess the five-letter word in six tries. Each guess must be a valid word. After each guess, the color of the tiles will change to show how close your guess was to the word.',
     difficulty: 'medium',
     category: 'guessing',
     thumbnail: 'https://images.unsplash.com/photo-1632167764165-74a3d686e9f8?w=800&auto=format&fit=crop&q=60',
     slug: 'wordle',
-    url: 'https://html5.gamemonetize.co/z5dxgdmjqibt9qs2qm7q4y8o4gyfz8yt/',
+    url: 'https://wordle1-chi.vercel.app/',
     aspectRatio: '16/9'
   },
   {
