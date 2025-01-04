@@ -9,7 +9,7 @@ export const specialGames: Game[] = [
     category: 'guessing',
     thumbnail: 'https://images.unsplash.com/photo-1632167764165-74a3d686e9f8?w=800&auto=format&fit=crop&q=60',
     slug: 'wordle',
-    url: 'wordle-two-wheat.vercel.app',
+    url: 'https://wordle-two-wheat.vercel.app',
     aspectRatio: '16/9'
   },
   {
