@@ -7,7 +7,7 @@ export const specialGames: Game[] = [
     description: 'Guess the five-letter word in six tries. Each guess must be a valid word. After each guess, the color of the tiles will change to show how close your guess was to the word.',
     difficulty: 'medium',
     category: 'guessing',
-    thumbnail: 'https://images.unsplash.com/photo-1632167764165-74a3d686e9f8?w=800&auto=format&fit=crop&q=60',
+    thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2xa76H_idSJd5Y0AbzRbhWspcXhsNjw5HOPVIPHCKDZ4cW6EXqmYqmaZqZGs_-7Umv9RdKC7rNjfBWUjxvQpSkGgJQ_xVE1g_tWU32Nzvl-NWzt_kMJu5EF_NM5Qjvx9-hDtw3N3JYaBQYB8drbauviA42nOgX6WpOeSIIVj9hB9IsHqBnep9tevdV8A/s800/Untitled%20design%20%2894%29.png',
     slug: 'wordle',
     url: 'https://wordle-two-wheat.vercel.app',
     aspectRatio: '16/14'
