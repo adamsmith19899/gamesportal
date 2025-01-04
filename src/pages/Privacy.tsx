@@ -19,7 +19,7 @@ We use Your Personal data to provide and improve the Service. By using the Servi
             We collect information that you provide directly to us, including your name,
             email address, and game progress data. We also automatically collect certain
             information about your device and how you interact with our games.
-          </p>
+          
           </p>
           
           <h2 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Information We Collect</h2>
