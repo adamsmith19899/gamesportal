@@ -24,13 +24,15 @@ export const newGames: Game[] = [
     aspectRatio: '750/750'
   },
   {
-    id: 'crypto-words',
-    title: 'Crypto Words',
-    description: 'Decode hidden messages and expand your vocabulary',
+    id: 'h5-connections',
+    title: 'H5 Connections Puzzle',
+    description: 'In this challenging and addictive word-guessing game, you will be presented with a series of words',
     difficulty: 'medium',
-    category: 'crypto',
-    thumbnail: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=60',
-    slug: 'crypto-words'
+    category: 'puzzle',
+    thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoACws-mmsv-TshQ3XMJShqypP_Mkq-fGoe_KCcjWsyg14VF6gTWHUL3rEwHYGSwG7E3i72cy2qQZ6be8whBdYi4K9J84iFI-BppKm5cYu3Zqn7ORrsy9YmPiy43XlUYHoerYg3FH0s1pGNbNZaMYQ8svMCEaDeLK4KyYxg0aPviPvDDh0clqmbXVbIFs/s320/dffffaffsf.PNG',
+    slug: 'h5-connections',
+    url: 'https://connections-rose.vercel.app/',
+    aspectRatio: '750/800'
   },
   {
     id: 'word-quest-3d',
