@@ -43,7 +43,7 @@ export const newGames: Game[] = [
     thumbnail: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimlM_k8cWyZIVaE6wKvYtr7ItDpHm8mippvpSV9lSen5czIiJTusbbyoNwJnEt8F3Mj0SfRDSoA-j3kYUTBHV5RtN6PPyJVPeRfDOU6P_pG8OEhpD8fVZRevpwsmAULbia1zMpGRm8C1LzMnFtHwosuEykWLurgZdh5oiEevkJYYB1A4wFaVQPISboDWw/s592/Captureddssssa.PNG',
     slug: 'word-scramble-challenge',
     url: 'https://word-scramble-challenge.vercel.app',
-    aspectRatio: '800/850'
+    aspectRatio: '800/750'
   },
   {
     id: 'spell-master',
